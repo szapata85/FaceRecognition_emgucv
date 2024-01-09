@@ -4,7 +4,6 @@ C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAnd
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Emgu.CV.dll
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Emgu.CV.Bitmap.dll
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\cvextern.dll
-C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\opencv_videoio_ffmpeg460_64.dll
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\concrt140.dll
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\msvcp140.dll
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\msvcp140_1.dll
@@ -25,3 +24,16 @@ C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAnd
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Classifier\haarcascade_frontalface_default.xml
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Emgu.CV.Platform.NetFramework.dll
 C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.Form2.resources
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\opencv_videoio_ffmpeg481_64.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Buffers.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Drawing.Common.pdb
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Memory.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Text.Json.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\bin\Debug\System.ValueTuple.dll
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHECHO\Documents\proyectos\FaceDetectionAndRecognition\FaceDetectionAndRecognition\obj\Debug\FaceDetectionAndRecognition.exe.config
